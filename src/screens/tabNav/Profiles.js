@@ -77,7 +77,7 @@ const Profiles = () => {
 
         <View style={styles.flexView}>
         <Text style={styles.formText}> Payment Status </Text> 
-        <Text style={styles.paymentStatus}> Free </Text> 
+        <Text style={styles.paymentStatus}> Freee </Text> 
         </View>
 
         <View  style={styles.borderView}></View>
